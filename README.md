@@ -87,3 +87,24 @@ Verified successful onboarding and configuration.
 - Threat Hunting Exercises
 
 ---
+
+
+## Microsoft Sentinel Content Hub
+
+Explored Microsoft Sentinel Content Hub and reviewed available integrations for cloud monitoring and security analytics.
+
+Examples reviewed:
+- Azure Activity
+- AWS
+- Cisco Cloud Security
+- Google Cloud Platform
+
+The Content Hub provides:
+- Data Connectors
+- Analytics Rules
+- Workbooks
+- Hunting Queries
+- Automation Playbooks
+
+## Screenshots
+![Content Hub](screenshots/content-hub.png)
